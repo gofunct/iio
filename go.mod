@@ -1,4 +1,4 @@
-module github.com/gofunct/io
+module github.com/gofunct/iio
 
 require (
 	github.com/mattn/go-colorable v0.0.9
